@@ -1,0 +1,1 @@
+helloworld:-write('hello world').
